@@ -1,5 +1,3 @@
-# kickstarter-analysis
-Performing on kickstarter data to uncover trends
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -12,7 +10,7 @@ ultimately meet her fundraising goal.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Theater_Outcomes_vs_Launch.png]
+[(https://github.com/clarosjorge21/kickstarter-analysis/blob/412954e122dc7888887e650629fd3d83f262243b/Theater_Outcomes_vs_Launch.png)]
 
 ### Analysis of Outcomes Based on Goals
 [Outcomes_vs_Goals.png]
