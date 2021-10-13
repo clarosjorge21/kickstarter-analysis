@@ -13,7 +13,7 @@ ultimately meet her fundraising goal.
 ![This is an image](https://github.com/clarosjorge21/kickstarter-analysis/blob/412954e122dc7888887e650629fd3d83f262243b/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![This is an image][Outcomes_vs_Goals.png]
+![This is an image](https://github.com/clarosjorge21/kickstarter-analysis/blob/64c07993f7a70d6192ba2904d284e5bb473e7123/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the challenges I reached was on the Outcomes based on Goals sheet. 
