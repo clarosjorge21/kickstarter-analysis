@@ -11,10 +11,12 @@ ultimately meet her fundraising goal.
 
 ### Analysis of Outcomes Based on Launch Date
 ![This is an image](https://github.com/clarosjorge21/kickstarter-analysis/blob/412954e122dc7888887e650629fd3d83f262243b/Theater_Outcomes_vs_Launch.png)
+
 From the chart you can see that they had more successful shows compared to failed ones. The amount of canceled remained close to 0 while in the month of October there was no canceled shows. As you can see, the successful and the failed shows have almost the same trend style of when they dip and when they increase. 
 
 ### Analysis of Outcomes Based on Goals
 ![This is an image](https://github.com/clarosjorge21/kickstarter-analysis/blob/64c07993f7a70d6192ba2904d284e5bb473e7123/Outcomes_vs_Goals.png)
+
 Overall, you can see that the information based on goals is very sporadic. There is a higher percentage of successful the lower the Goal was. The higher the Goal, the higher percentage of it failing. The chart does meet at the $15,000  to $19,999, having it go 50/50. 
 
 ### Challenges and Difficulties Encountered
